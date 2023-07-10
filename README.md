@@ -38,5 +38,3 @@ Treće poglavlje se odnosi na clučajne promenljive. Najpre je definisana sluča
 Četvrto poglavlje se odnosi na statistiku, odnosno deskriptivnu statistiku, često omiljenu oblast studenata, jer su primeri praktične prirode, iz raznih oblasti života. Dat je niz statistički relevantnih pokazatelja i kroz razne primere je pokazano kako se do njih dolazi i kako se tumače. 
 
 Peto poglavlje sadrži opise kako se u Excel-u, kao i statističkim softverima  R i Python mogu generisati bitni statistički pokazatelji, prethodno definisani u poglavlju četiri. Takođe, objašnjeno je i kako se koriste i intepretiraju podaci Republičkog zavoda za statistiku. 
-Autori
-U Beogradu, 2023.
