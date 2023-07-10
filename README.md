@@ -1,6 +1,6 @@
 # Udzbenik "Kombinatorika, verovatnoća i statistika sa primenom u softverskim paketima"
 
-U okviru ovog repozizorijuma se nalazi udzbenik "KOMBINATORIKA, VEROVATNOĆA I STATISTIKA SA PRIMENOM U SOFTVERSKIM PAKETIMA", autora dr Todorov Miloša i dr Ljubice Mihić. Uz priloženi udzbenik, nalaze se i fajlovi koji prate nastavni materijal iz poglavlja "Deskriptivna statistika u okviru softverskih paketa". Autori su saglasni da se dati materijal može koristiti za izvođenje nastave uz navođenje izvora. **Zabranjena** je svaka transformacija elektronskog udzbenika.
+U okviru ovog repozizorijuma se nalazi udzbenik "Kombinatorika, verovatnoća i statistika sa primenom u softverskim paketima", autora dr Todorov Miloša i dr Ljubice Mihić. Uz priloženi udzbenik, nalaze se i fajlovi koji prate nastavni materijal iz poglavlja "Deskriptivna statistika u okviru softverskih paketa". Autori su saglasni da se dati materijal može koristiti za izvođenje nastave uz navođenje izvora. **Zabranjena** je svaka transformacija elektronskog udzbenika.
 
 
 <div align="center">
