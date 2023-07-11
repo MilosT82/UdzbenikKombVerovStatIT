@@ -33,7 +33,7 @@ Prvo poglavlje, Kombinatorika, sadrži primere iz permutacija, varijacija i komb
 
 U drugom poglavlju se uvode različite definicije verovatnoće praćene primerima. Primenom algebre vezane za skupove, definisani su podskupovi, suprotni (komplemantarni) događaji. Zatim slede oblasti uslovna verovatnoća, totalna verovatnoća i Bajesova formula.
 
-Treće poglavlje se odnosi na clučajne promenljive. Najpre je definisana slučajna promenljiva i odgovarajući parametri koji je opisuju, a zatim je razmatranje podeljeno na slučajeve diskretnih i kontinualnih slučajnih promenljivih. Izdvojene su neke poznate raspodele, a dosta primera je posvećeno Gausovoj raspodeli. Primena Gausove raspodele se takođe vidi i u poslednjim podpoglavljima ove oblasti- statistike uzorka i testiranje hipoteza.  
+Treće poglavlje se odnosi na slučajne promenljive. Najpre je definisana slučajna promenljiva i odgovarajući parametri koji je opisuju, a zatim je razmatranje podeljeno na slučajeve diskretnih i kontinualnih slučajnih promenljivih. Izdvojene su neke poznate raspodele, a dosta primera je posvećeno Gausovoj raspodeli. Primena Gausove raspodele se takođe vidi i u poslednjim podpoglavljima ove oblasti- statistike uzorka i testiranje hipoteza.  
 
 Četvrto poglavlje se odnosi na statistiku, odnosno deskriptivnu statistiku, često omiljenu oblast studenata, jer su primeri praktične prirode, iz raznih oblasti života. Dat je niz statistički relevantnih pokazatelja i kroz razne primere je pokazano kako se do njih dolazi i kako se tumače. 
 
